@@ -104,3 +104,4 @@ print("-----------------------------------------------   STEP SEVEN  -----------
 total_sales = between11500to1200['Total Sale']
 
 print(total_sales)
+print("Total Sales for new dataframe: " + str(total_sales.sum()))
